@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "תליית כביסה"
+---
+
+הנה הפתרון שלי לתליית כביסה במסתור כביסה, אחרי שהתקינו לי מזגן.
+
+
+![](/assets/posts/Hanger/DSC_0150.JPG)
+
+#יתרונות
+
+1. התליה היא לתקרת המסתור, כך שאפשר לתלות סדינים וממפות ארוכות
+2. מעלים כל מטר שיבעים בנפרד, אז זה לא קשה
+3. ההתקנה קלה מאוד, ורק מדובר בקדיחת עשרה חורים
+4. הצלחתי לתלות שני מתקנים, כך שאני יכול לתלות שתי מכונות כביסה.
+5. תודות למזגן האויר זז יותר מהר במסתור והיבוש מתקצר, גם בחורף
+
+
+
+
+#רשימת חלקים
+
+|תמונה|אביזר|כמות|מחיר|סך הכל|הערות|
+|------|----|----|----|----|-----|
+|![](http://www.atlantis-marine.co.il/images/itempics/1511_101020181326161_large.jpg) | גלגלת |12 | 35 | 420| אפשרות יקרה לגלגת|
+|![](https://i.ebayimg.com/images/g/leoAAOSwRAZdNbVI/s-l300.jpg)|גלגלת|9|12|108|גלגלת יותר זולה מאיבאי|
+|![](http://www.atlantis-marine.co.il/images/itempics/SAKL001_large.jpg)|שאקל|12| 10|120|
+|![](https://www.ikea.co.il/images/Fittings/ikea/702/21/395/70221395_Enlarge.jpg)|מוט לתליית וילון באורך 70-120 ס"מ בקוטר 1ץ9 ס"מ RACKA|7|2|14| מוט ל5 קילו|
+|![](https://www.ikea.co.il/images/Fittings/ikea/002/13/841/00213841_Enlarge.jpg)| מוט תליה אורך 79 ס"מ קוטור 1.6 ס"מ Fintorp|45|2|90|מוט להרבה יותר מ5 קילו|
+|![](https://www.ikea.co.il/images/Fittings/ikea/492/30/052/49230052_Enlarge.jpg)| מתלה עם שישה ווים lurt/gubbarp|28|1|28|
+|![](https://www.ikea.co.il/images/Fittings/ikea/002/99/118/00299118_Enlarge.jpg)|צינור אולומיניום VIDGA |15|6|90| המוטות עליהם תולים את הבגדים| 
+|X|צינור ניקוז למזגנים שרשורי לבן|1|4 מטרים|4|
+|X|חבל |1|40 מטרים|
+ 
+
+
+#הרכבה
+
+הרווח הוא שבע ס"מ
+
+
+#קישורים נוספים
+[גלגלת בEBAY]"https://www.ebay.com/itm/Heavy-Duty-Steel-Pulley-Washing-Line-Wire-Cable-Rope-Cord-Sheave-Block/202739717015?hash=item2f343a9397:g:leoAAOSwRAZdNbVI"
